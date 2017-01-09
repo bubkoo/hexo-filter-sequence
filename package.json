@@ -1,0 +1,32 @@
+{
+  "name": "hexo-filter-sequence",
+  "version": "1.0.0",
+  "description": "Sequence diagrams plugin for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/hexo-filter-sequence.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "sequence",
+    "diagrams",
+    "markdown"
+  ],
+  "author": {
+    "name": "bubkoo.wy",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubkoo/hexo-filter-sequence/issues"
+  },
+  "homepage": "https://github.com/bubkoo/hexo-filter-sequence#readme",
+  "dependencies": {
+    "deep-assign": "^2.0.0"
+  }
+}
