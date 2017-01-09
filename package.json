@@ -1,7 +1,7 @@
 {
   "name": "hexo-filter-sequence",
   "version": "1.0.0",
-  "description": "Generates UML sequence diagrams for Hexo.",
+  "description": "Generate UML sequence diagrams for Hexo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
