@@ -1,2 +1,3 @@
 # hexo-filter-sequence
-Sequence diagrams plugin for Hexo.
+
+> Generates UML sequence diagrams for Hexo.
