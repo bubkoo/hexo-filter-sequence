@@ -49,7 +49,7 @@ Your config will be merged into default config:
   "sequence": "https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js",
   "style": "",
   "options": {
-    "theme": "simple"
+    "theme": "simple",
     "css_class": ""
   }
 }
