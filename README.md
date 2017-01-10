@@ -15,6 +15,8 @@ npm install --save hexo-filter-sequence
 
 ## Usage
 
+This plugin is based on [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams), so you can defined the chart as follow:  
+
     ```sequence
     Alice->Bob: Hello Bob, how are you?
     Note right of Bob: Bob thinks
