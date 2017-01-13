@@ -23,6 +23,8 @@ This plugin is based on [js-sequence-diagrams](https://github.com/bramp/js-seque
     Bob-->Alice: I am good thanks!
     ```
 
+![snapshot.svg](https://cdn.rawgit.com/bubkoo/hexo-filter-sequence/master/snapshot.svg)
+
 ## Config
    
 In your site's `_config.yml`:
