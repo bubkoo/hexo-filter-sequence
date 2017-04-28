@@ -31,11 +31,11 @@ In your site's `_config.yml`:
 
 ```yaml
 sequence:
-  webfont:
-  snap:        
-  underscore:
-  sequence:
-  css: # the url for css, such as hand drawn theme 
+  # webfont:     # optional, the source url of webfontloader.js
+  # snap:        # optional, the source url of snap.svg.js
+  # underscore:  # optional, the source url of underscore.js
+  # sequence:    # optional, the source url of sequence-diagram.js
+  # css: # optional, the url for css, such as hand drawn theme 
   options: 
     theme: 
     css_class: 
