@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-sequence",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate UML sequence diagrams for Hexo.",
   "main": "index.js",
   "scripts": {
